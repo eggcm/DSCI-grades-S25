@@ -42,7 +42,7 @@ function display() {
     Final Demo  (20%): ${data[id].Final}
     Final Report(25%): ${data[id].Report}
 
-    Attendance (classes, surveys, etc. for 4% and 1% for April 02, 2025)
+    Attendance (4% for classes, surveys, etc. and 1% for April 02, 2025)
     Attend: ${data[id].Attend} 
     
     Semester Grade (Mark): ${data[id].SEM}
